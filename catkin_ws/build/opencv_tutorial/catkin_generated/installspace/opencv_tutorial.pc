@@ -1,0 +1,8 @@
+prefix=/home/bonobono/catkin_ws/install
+
+Name: opencv_tutorial
+Description: Description of opencv_tutorial
+Version: 0.0.0
+Cflags: -I/home/bonobono/catkin_ws/install/include
+Libs: -L/home/bonobono/catkin_ws/install/lib -loroca_ros_tutorials
+Requires: roscpp std_msgs

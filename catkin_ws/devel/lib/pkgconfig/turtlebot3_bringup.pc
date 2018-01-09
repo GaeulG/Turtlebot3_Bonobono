@@ -1,0 +1,8 @@
+prefix=/home/bonobono/catkin_ws/devel
+
+Name: turtlebot3_bringup
+Description: Description of turtlebot3_bringup
+Version: 0.1.5
+Cflags: 
+Libs: -L/home/bonobono/catkin_ws/devel/lib 
+Requires: 

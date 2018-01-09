@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+<name>oroca_ros_tutorials</name>
+<version>0.1.0</version>
+<description>The oroca_ros_tutorials package</description>
+<maintainer email="pyo@robotis.com">Yoonseok Pyo</maintainer>
+<url type="website">http://oroca.org</url>
+<url type="repository">https://github.com/oroca/oroca_ros_tutorials.git</url>
+<author email="pyo@robotis.com">Yoonseok Pyo</author>
+<license>BSD</license>
+
+<buildtool_depend>catkin</buildtool_depend>
+<build_depend>roscpp</build_depend>
+<build_depend>std_msgs</build_depend>
+<build_depend>message_generation</build_depend>
+<run_depend>roscpp</run_depend>
+<run_depend>std_msgs</run_depend>
+<run_depend>message_runtime</run_depend>
+<export></export>
+</package>

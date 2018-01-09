@@ -1,0 +1,8 @@
+prefix=/home/bonobono/catkin_ws/install
+
+Name: hls_lfcd_lds_driver
+Description: Description of hls_lfcd_lds_driver
+Version: 0.1.2
+Cflags: -I/home/bonobono/catkin_ws/install/include
+Libs: -L/home/bonobono/catkin_ws/install/lib -lhls_lfcd_lds_driver
+Requires: roscpp sensor_msgs
